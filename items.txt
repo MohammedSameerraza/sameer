@@ -6,6 +6,7 @@ welcome to items food
 
 kheer
 burger
-
+idle
+pizza
 
 thank you
